@@ -19,3 +19,5 @@ I don't think there's a corresponding AST generator for the C chapters(?)
 
 It looks like Expr.java and Stmt.java don't have marker comments stripped out,
 unfortunately!
+
+If you're interested in Expr.java or Stmt.java, see also: https://craftinginterpreters.com/appendix-ii.html
