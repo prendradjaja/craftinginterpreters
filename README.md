@@ -1,8 +1,9 @@
 A fork of https://github.com/munificent/craftinginterpreters with the code as
 it looks like at the end of each chapter.
 
-
 ## Table of contents
+
+Each directory contains the code as it looks at the _end_ of each chapter.
 
 See also https://craftinginterpreters.com/contents.html
 
