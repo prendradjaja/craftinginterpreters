@@ -11,3 +11,11 @@ excerpted below) and added the result (the `gen/` directory) to git.
 > chapter and produces a new copy of the source in `gen/`, one directory for each
 > chapter's code. (These are also an easier way to view the source code since they
 > have all of the distracting marker comments stripped out.)
+
+I also had to run `make java_chapters` to run GenerateAst.java for each chapter
+(GenerateAst creates the Expr.java and Stmt.java files).
+
+I don't think there's a corresponding AST generator for the C chapters(?)
+
+It looks like Expr.java and Stmt.java don't have marker comments stripped out,
+unfortunately!
